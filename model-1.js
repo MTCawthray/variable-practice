@@ -5,3 +5,5 @@ var dogAge = 9;
 var dogWeight = 27;
 var dogHealthy = true;
 var dogBites = false;
+var dogLikes = ["treats", "cuddles", "walks", "going to bed"]
+var dogWalkTimes = [7, 12, 4, 8]
